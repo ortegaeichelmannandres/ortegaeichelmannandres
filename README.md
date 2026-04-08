@@ -6,21 +6,19 @@ I am a **Data Analyst** based in Mexico City, focused on transforming complex op
 ---
 
 ## 🚀 Professional Profile
-- 🎯 **Strategic Growth:** Expert in identifying funnel friction and churn patterns to optimize retention (e.g., purchasing cycle optimization for MercadoLibre).
+- 🎯 **Strategic Growth:** Experienced in identifying funnel friction and churn patterns.
 - 🛠️ **End-to-End Data Capabilities:** Proficient in the entire data lifecycle—from complex SQL querying and Python automation to delivering executive-level insights.
 - 🎮 **QA Background:** 3 years of experience in AAA Video Game Quality Assurance, providing a unique foundation in logical pattern detection and technical rigor.
-- 🎨 **Innovation & Web3:** Lead developer of an MVP for physical art authentication using blockchain technology (NFTs/IPFS).
-- 🌍 **Urban Economics:** Researcher on the correlation between transport infrastructure and macro-economic productivity across major LATAM metropolises.
+- 🎨 **Innovation:** Lead developer of an MVP for modular Softwatre QA Tracker.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 | Domain | Technologies & Methodologies |
 | :--- | :--- |
-| **Data Engineering** | SQL (PostgreSQL), Python (Pandas, NumPy, Scipy), ETL Processes |
+| **Data Engineering** | SQL (PostgreSQL), Python (Pandas, NumPy, Scipy)|
 | **Data Storytelling** | Advanced Visualization (Seaborn, Matplotlib), Executive Reporting |
 | **Analysis Frameworks** | Cohort Analysis, Funnel Optimization, Hypothesis Testing (A/B Testing) |
-| **Emerging Tech** | Web3 Architecture, Lógica de Smart Contracts, IPFS |
 
 ---
 
