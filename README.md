@@ -30,7 +30,7 @@ I am a **Data Analyst** based in Mexico City, focused on transforming complex op
 ---
 
 ## 📫 Contact & Networking
-I am always open to discussing data-driven projects, process automation. Feel free to reach out:
+I am always open to discussing data-driven projects and process automation. Feel free to reach out:
 
 - **Email:** [ortegaeichelmannandres@gmail.com](mailto:ortegaeichelmannandres@gmail.com)
 - **LinkedIn:** [linkedin.com/in/andresoeichelmann/](https://www.linkedin.com/in/andresoeichelmann/)
