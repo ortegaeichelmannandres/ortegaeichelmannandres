@@ -10,7 +10,7 @@ I am a **Data Analyst** based in Mexico City, focused on transforming complex op
 - 🎯 **Strategic Growth:** Experienced in identifying funnel friction and churn patterns.
 - 🛠️ **End-to-End Data Capabilities:** Proficient in the entire data lifecycle—from complex SQL querying and Python automation to delivering executive-level insights.
 - 🎮 **QA Background:** 3 years of experience in AAA Video Game Quality Assurance, providing a unique foundation in logical pattern detection and technical rigor.
-- 🎨 **Innovation:** Lead developer of an MVP for modular Softwatre QA Tracker.
+- 🎨 **Innovation:** Lead developer of an MVP for modular QA Tracker for Softwatre.
 
 ---
 
