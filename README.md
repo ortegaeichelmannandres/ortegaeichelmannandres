@@ -1,4 +1,5 @@
-# Hi, I'm Andres Ortega 👋
+# 📊 Andres Ortega | Data Portfolio
+
 ### Data Analyst | Business Intelligence & Strategic Modeling
 
 I am a **Data Analyst** based in Mexico City, focused on transforming complex operational processes into clear visualization tools using Python, SQL, and Excel. My approach combines analytical rigor with strategic modeling to convert raw metrics into intelligent business decisions and significant operational time savings.
@@ -41,6 +42,13 @@ I am always open to discussing data-driven projects, process automation, or the 
 
 ---
 
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ortegaeichelmannandres&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Andres's GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ortegaeichelmannandres&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="300" />
+</div>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ortegaeichelmannandres&layout=compact&theme=flat" alt="Top Languages" />
+  <i>"Data is a precious thing and will last longer than the systems themselves." – Tim Berners-Lee</i>
 </p>
