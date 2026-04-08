@@ -42,13 +42,6 @@ I am always open to discussing data-driven projects, process automation, or the 
 
 ---
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ortegaeichelmannandres&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Andres's GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ortegaeichelmannandres&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="300" />
-</div>
-
 <p align="center">
   <i>"Data is a precious thing and will last longer than the systems themselves." – Tim Berners-Lee</i>
 </p>
