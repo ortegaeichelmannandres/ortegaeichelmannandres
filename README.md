@@ -27,6 +27,7 @@ I am a **Data Analyst** based in Mexico City, focused on transforming complex op
 ## 📊 Featured Projects
 
 > *Note: My portfolio focuses on intentional, independent industry case studies designed to solve real-world business and data quality challenges.*
+> *PD: The featured projects below represent upcoming and actively developed case studies. Detailed code repositories, interactive dashboards, and documentation are currently being finalized and updated.*
 
 ### 🎨 1. Art Marketplace Valuation & Inventory Analytics
 * **Objective:** Built a commercial intelligence dashboard for art market trends, price distribution, and auction inventory analysis.
@@ -55,8 +56,6 @@ I am a **Data Analyst** based in Mexico City, focused on transforming complex op
 * **Key Deliverables:**
   - Automated data quality checks identifying missing fields, duplicate records, and schema mismatches before reporting.
   - Error-rate trend board adopted as a reporting standard to ensure 100% data accuracy for stakeholders.
-
-> *PD: This is a draft of the projects. Currently they are being worked on*
 
 ---
 
